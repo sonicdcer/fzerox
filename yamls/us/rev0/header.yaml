@@ -48,6 +48,8 @@ options:
   asm_jtbl_label_macro: jlabel
   asm_data_macro: dlabel
 
+  asm_emit_size_directive: True
+
   ld_legacy_generation: True
   check_consecutive_segment_types: False
   
